@@ -1,15 +1,47 @@
-<h1 align="center">Hi 👋, I'm Saksham Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+#  Welcome to My Realm of Code & Creativity!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saksham210804&label=Profile%20views&color=0e75b6&style=flat" alt="saksham210804" /> </p>
+Hey there! I'm **Saksham**, and you've just stepped into my digital forge — where creativity meets code, and ideas evolve into immersive worlds.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saksham210804" alt="saksham210804" /></a> </p>
+##  Game Developer by Passion, Coder by Obsession
 
-- 📫 How to reach me **sakshamyadav210804@gmail.com**
+From pixel-perfect collisions to AI that actually *feels alive*, I breathe life into virtual worlds through:
+- 🔹 **Unity** — My go-to engine for crafting captivating experiences.
+- 🔹 **C#** — My spellbook for scripting mechanics, movement, and magic.
+- 🔹 **C++** — My toolkit for performance-heavy logic and core game systems.
+- 🔹 **Python** — My thinking hat for rapid prototyping, tools, and AI logic.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+##  What Drives Me?
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+As a kid i feel proud that i used to play contra like a pro, now i want to create experiences which could make kids go mad, exactly how i felt when i died again and again. I build games using two tools. Imagination. Curiosity. The thrill of building something that *feels alive*.  
+I don't just build games — I build **experiences**. I believe every line of code is a brushstroke in an evolving canvas.
+
+Whether it’s:
+- Crafting a combat system that *feels* just right
+- Animating the subtle flicker of torchlight
+- Or designing the perfect loop that hooks the player
+
+...I’m all in. Every single time.
+
+##  My World is Built With:
+
+-  Unity (2D/3D, URP, Cinemachine, DOTween, Shader Graph)
+-  C# (Event systems, OOP, ECS, Design Patterns)
+-  C++ (Game mechanics, custom tools, performance optimization)
+-  Python (AI, automation, procedural generation tools)
+
+##  What's Next?
+
+Right now, I’m working on **Bladeborne**, my latest Unity-powered passion project.  
+(Coming soon to a repo near you. Stay tuned.)
+
+---
+
+> “Code is the canvas. Creativity is the brush. Games are the stories we let people play.”
+
+Thanks for dropping by.  
+Check out my repos, fork something cool, or just say hi!
+
+---
+
+ Connect with me  
+ Collaborations? Ideas? Bug-hunting? Let's talk.
